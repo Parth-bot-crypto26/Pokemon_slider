@@ -21,20 +21,6 @@ A dynamic and interactive web application built with **React** and **Vite** that
 - **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
 - **Styling**: CSS3 (Custom gradients and layouting)
 
-## 📂 Project Structure
-
-pokemon-slider/
-├── public/              # Static assets (images, icons)
-├── src/
-│   ├── components/
-│   │   ├── Hero.jsx     # Draggable character strip
-│   │   ├── Navbar.jsx   # Top navigation bar
-│   │   └── Slider.jsx   # Core 3D Pokemon slider logic
-│   ├── App.jsx          # Main application layout
-│   └── main.jsx         # Entry point
-├── index.html           # HTML template
-└── package.json         # Dependencies and scripts
-
 
 ##⚡ Getting Started
 Follow these steps to set up the project locally on your machine.
