@@ -22,7 +22,8 @@ A dynamic and interactive web application built with **React** and **Vite** that
 - **Styling**: CSS3 (Custom gradients and layouting)
 
 
-##⚡ Getting Started
+## ⚡ Getting Started
+
 Follow these steps to set up the project locally on your machine.
 
 ## Prerequisites
